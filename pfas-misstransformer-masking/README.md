@@ -15,6 +15,7 @@ targets/                                     Descriptor panels used in tests
 results/                                     Final CSV summaries and comparisons
 scripts/combine_panel_results.py             Utility for combining panel outputs
 HOME_PC_HANDOFF_PFAS_MISSTRANSFORMER_2026-08-01.md
+CODEX_HOME_TASK_INSTRUCTIONS.md              Ready-to-run instructions for home Codex
 data/README.md                               Raw data placement notes
 ```
 
@@ -130,4 +131,3 @@ results/expanded50_combined/panel_comparison_summary.csv
 results/expanded50_combined/method_delta_panel2_minus_panel1.csv
 results/expanded50_combined/misstransformer_hardest_descriptors_50.csv
 ```
-
