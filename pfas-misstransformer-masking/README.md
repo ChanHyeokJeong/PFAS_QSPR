@@ -19,9 +19,9 @@ CODEX_HOME_TASK_INSTRUCTIONS.md              Ready-to-run instructions for home 
 data/README.md                               Raw data placement notes
 ```
 
-Large raw inputs are not committed here because the original project contains
-large Excel/cache/archive files, including a zip file above GitHub's regular
-100 MB file limit. Place the raw files locally as described in `data/README.md`.
+The LogP raw workbooks/cache needed for the current Panel 3 continuation are
+included under `data/raw/`. Larger or unrelated raw archives are still excluded.
+See `data/README.md` for placement and file details.
 
 ## Current Result Summary
 

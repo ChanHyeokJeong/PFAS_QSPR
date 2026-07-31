@@ -137,17 +137,34 @@ def load_excel_inputs(
     rebuild_cache: bool,
 ) -> tuple[pd.DataFrame | None, np.ndarray, np.ndarray, np.ndarray, list[str]]:
     spec = DATASETS[dataset]
-    desc_path = base_dir / spec["descriptor_xlsx"]
-    tok_path = base_dir / spec["token_xlsx"]
+
+    def resolve_input_path(filename: str) -> Path:
+        candidates = [
+            base_dir / filename,
+            base_dir / "data" / "raw" / filename,
+        ]
+        for candidate in candidates:
+            if candidate.exists():
+                return candidate
+        return candidates[0]
+
+    desc_path = resolve_input_path(spec["descriptor_xlsx"])
+    tok_path = resolve_input_path(spec["token_xlsx"])
     if not desc_path.exists():
         raise FileNotFoundError(desc_path)
     if not tok_path.exists():
         raise FileNotFoundError(tok_path)
 
-    cache_path = base_dir / f"masking_input_cache_{dataset}_{metadata_mode}_col{descriptor_start_col}.npz"
-    if use_cache and cache_path.exists() and not rebuild_cache:
-        print(f"Loading cached arrays: {cache_path}")
-        cached = np.load(cache_path, allow_pickle=True)
+    cache_name = f"masking_input_cache_{dataset}_{metadata_mode}_col{descriptor_start_col}.npz"
+    cache_path = base_dir / cache_name
+    cache_read_candidates = [
+        cache_path,
+        base_dir / "data" / "raw" / cache_name,
+    ]
+    cache_read_path = next((path for path in cache_read_candidates if path.exists()), cache_path)
+    if use_cache and cache_read_path.exists() and not rebuild_cache:
+        print(f"Loading cached arrays: {cache_read_path}")
+        cached = np.load(cache_read_path, allow_pickle=True)
         descriptor_names = cached["descriptor_names"].tolist()
         return (
             None,

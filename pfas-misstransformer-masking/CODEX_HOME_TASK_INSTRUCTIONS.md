@@ -43,24 +43,27 @@ pfas-misstransformer-masking/results/expanded50_combined/benchmark_summary_final
 
 ## Raw Data Required Locally
 
-The raw data files are intentionally not in GitHub. Place these files in the
-`pfas-misstransformer-masking/` folder before running benchmarks:
+The LogP raw data files required for the current Panel 3 task are included in
+this branch under:
+
+```text
+pfas-misstransformer-masking/data/raw/
+```
+
+Included files:
 
 ```text
 LogP_descriptor_original.xlsx
 PFAS_embedding_numbers.xlsx
-BCF_descriptor.xlsx
-BCF_PFAS_embedding_numbers.xlsx
-```
-
-Optional cache file:
-
-```text
 masking_input_cache_logp_endpoint_col4.npz
 ```
 
-Do not commit `.xlsx`, `.npz`, `.zip`, generated prediction folders, or cache
-files unless the user explicitly asks for a data-release commit.
+The benchmark script can now read LogP raw files from `data/raw/` automatically,
+so no manual copy is needed after cloning/pulling this branch.
+
+The BCF files are not needed for Panel 3. Do not commit additional `.xlsx`,
+`.npz`, `.zip`, generated prediction folders, or cache files unless the user
+explicitly asks for a data-release commit.
 
 ## Environment Setup
 
@@ -256,8 +259,8 @@ scripts/*.py
 Do not commit:
 
 ```text
-*.xlsx
-*.npz
+new *.xlsx files other than the already tracked LogP raw inputs
+new *.npz files other than the already tracked LogP cache
 *.zip
 masking_benchmark_*/
 __pycache__/
@@ -274,4 +277,3 @@ Suggested commit message:
 ```text
 Add panel 3 PFAS masking benchmark results
 ```
-
