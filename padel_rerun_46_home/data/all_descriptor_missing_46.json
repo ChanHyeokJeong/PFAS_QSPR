@@ -1,0 +1,416 @@
+[
+  {
+    "excel_row": 359,
+    "compound_index": 358,
+    "compound_id": "PFAS_00358",
+    "cas": "No CAS number",
+    "smiles": "CC1CN1C(O)=Nc1cc(ccc1C)N=C(O)OC(CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F",
+    "value_mean": 17.3246,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 361,
+    "compound_index": 360,
+    "compound_id": "PFAS_00360",
+    "cas": "No CAS number",
+    "smiles": "CC1CN1C(O)=Nc1cc(ccc1C)N=C(O)OC(CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(C(F)(F)F)C(F)(F)F",
+    "value_mean": 14.6482,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 548,
+    "compound_index": 547,
+    "compound_id": "PFAS_00547",
+    "cas": "No CAS number",
+    "smiles": "CCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 12.9692,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 552,
+    "compound_index": 551,
+    "compound_id": "PFAS_00551",
+    "cas": "No CAS number",
+    "smiles": "CCCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 14.1294,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 566,
+    "compound_index": 565,
+    "compound_id": "PFAS_00565",
+    "cas": "No CAS number",
+    "smiles": "CCCCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 15.2896,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 680,
+    "compound_index": 679,
+    "compound_id": "PFAS_00679",
+    "cas": "No CAS number",
+    "smiles": "CCCN(CCN=C(O)c1ccc(C)c(c1)C(O)=NCCN(C)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 16.4239,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 745,
+    "compound_index": 744,
+    "compound_id": "PFAS_00744",
+    "cas": "2250-98-8",
+    "smiles": "CCN(CCOP(=O)(OCCN(CC)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OCCN(CC)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 19.2842,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 746,
+    "compound_index": 745,
+    "compound_id": "PFAS_00745",
+    "cas": "67939-94-0",
+    "smiles": "CCN(CCOP(=O)(OCCN(CC)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OCCN(CC)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 17.2769,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1417,
+    "compound_index": 1419,
+    "compound_id": "PFAS_01419",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(Cc1ccc(cc1)P(c1ccc(CC(C(F)(F)F)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F)cc1)c1ccc(CC(C(F)(F)F)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F)cc1)(C(F)(F)F)C(F)(F)F",
+    "value_mean": 20.8697,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1418,
+    "compound_index": 1420,
+    "compound_id": "PFAS_01420",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(Cc1ccc(cc1)P(c1ccccc1)c1ccc(CC(C(F)(F)F)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F)cc1)(C(F)(F)F)C(F)(F)F",
+    "value_mean": 15.5868,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1544,
+    "compound_index": 1546,
+    "compound_id": "PFAS_01546",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCOP(=O)(OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 30.578,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1553,
+    "compound_index": 1555,
+    "compound_id": "PFAS_01555",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC(I)CCCCC(I)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 22.7678,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1559,
+    "compound_index": 1561,
+    "compound_id": "PFAS_01561",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 22.3802,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1560,
+    "compound_index": 1562,
+    "compound_id": "PFAS_01562",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 23.3624,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1561,
+    "compound_index": 1563,
+    "compound_id": "PFAS_01563",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCCCCCCCCCCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 27.2912,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1562,
+    "compound_index": 1564,
+    "compound_id": "PFAS_01564",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCCCCCCCCCCCCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 28.2734,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1587,
+    "compound_index": 1590,
+    "compound_id": "PFAS_01590",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 19.7038,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1588,
+    "compound_index": 1591,
+    "compound_id": "PFAS_01591",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCCCCCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 20.686,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1594,
+    "compound_index": 1597,
+    "compound_id": "PFAS_01597",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCOP(=O)(OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 22.5488,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1630,
+    "compound_index": 1634,
+    "compound_id": "PFAS_01634",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CC(I)COC(=O)CCCCC(=O)OCC(I)CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 16.4962,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1641,
+    "compound_index": 1646,
+    "compound_id": "PFAS_01646",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCc1cccc(c1)P(c1cccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c1)c1cccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c1",
+    "value_mean": 25.7987,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1642,
+    "compound_index": 1647,
+    "compound_id": "PFAS_01647",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCc1ccc(cc1)P(c1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1)c1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1",
+    "value_mean": 25.7987,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1643,
+    "compound_index": 1648,
+    "compound_id": "PFAS_01648",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCc1ccc(cc1)P(c1ccccc1)c1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1",
+    "value_mean": 18.8728,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1644,
+    "compound_index": 1649,
+    "compound_id": "PFAS_01649",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCc1ccc(cc1)P(c1ccccc1)c1ccccc1",
+    "value_mean": 11.9469,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1708,
+    "compound_index": 1715,
+    "compound_id": "PFAS_01715",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)COP1(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)N=P(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)N=P(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)N=1",
+    "value_mean": 33.4159,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1728,
+    "compound_index": 1735,
+    "compound_id": "PFAS_01735",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)c1ccc(cc1)P(c1ccc(cc1)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c1ccc(cc1)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 18.8375,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1760,
+    "compound_index": 1771,
+    "compound_id": "PFAS_01771",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCc1ccc(cc1)P(c1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1)c1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1",
+    "value_mean": 21.7841,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 1761,
+    "compound_index": 1772,
+    "compound_id": "PFAS_01772",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CCc1ccc(cc1)P(c1ccccc1)c1ccc(CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)cc1",
+    "value_mean": 16.1964,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 2128,
+    "compound_index": 2144,
+    "compound_id": "PFAS_02144",
+    "cas": "No CAS number",
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)OC(F)(C(F)(F)F)C(F)(F)c1ccc(cc1)P(c1ccc(cc1)C(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)c1ccc(cc1)C(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F",
+    "value_mean": 19.3907,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 2351,
+    "compound_index": 2368,
+    "compound_id": "PFAS_02368",
+    "cas": "No CAS number",
+    "smiles": "FC(F)C(F)(F)C(F)(F)C(F)(F)COP1(OCC(F)(F)C(F)(F)C(F)(F)C(F)F)N=P(OCC(F)(F)C(F)(F)C(F)(F)C(F)F)(OCC(F)(F)C(F)(F)C(F)(F)C(F)F)N=P(OCC(F)(F)C(F)(F)C(F)(F)C(F)F)(OCC(F)(F)C(F)(F)C(F)(F)C(F)F)N=1",
+    "value_mean": 17.7253,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 2361,
+    "compound_index": 2378,
+    "compound_id": "PFAS_02378",
+    "cas": "No CAS number",
+    "smiles": "FC(F)CCCCC(F)(F)COP1(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F)=NP(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F)(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F)=NP(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F)(OCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)F)=N1",
+    "value_mean": 25.0425,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 2428,
+    "compound_index": 2446,
+    "compound_id": "PFAS_02446",
+    "cas": "No CAS number",
+    "smiles": "Fc1c(F)c(F)c(P(NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c2c(F)c(F)c(F)c(F)c2F)c(F)c1F",
+    "value_mean": 10.59,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 3285,
+    "compound_index": 3313,
+    "compound_id": "PFAS_03313",
+    "cas": "No CAS number",
+    "smiles": "OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 10.6879,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 3784,
+    "compound_index": 3813,
+    "compound_id": "PFAS_03813",
+    "cas": "No CAS number",
+    "smiles": "CN(C)CCCN=C(O)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 8.878,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4198,
+    "compound_index": 4228,
+    "compound_id": "PFAS_04228",
+    "cas": "No CAS number",
+    "smiles": "OP1(=O)OCC(CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)(CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)CO1",
+    "value_mean": 21.5517,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4329,
+    "compound_index": 4359,
+    "compound_id": "PFAS_04359",
+    "cas": "No CAS number",
+    "smiles": "OCCN(CCO)CCCN=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 6.9373,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4554,
+    "compound_index": 4586,
+    "compound_id": "PFAS_04586",
+    "cas": "No CAS number",
+    "smiles": "OC(=O)CN=C(O)CCSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)CF",
+    "value_mean": 8.9262,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4743,
+    "compound_index": 4779,
+    "compound_id": "PFAS_04779",
+    "cas": "No CAS number",
+    "smiles": "CC(CNCCC[N+](C)(C)CC(O)=O)C(=O)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 8.097,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4744,
+    "compound_index": 4780,
+    "compound_id": "PFAS_04780",
+    "cas": "No CAS number",
+    "smiles": "CC(CNCCC[N+](C)(C)CC(O)=O)C(=O)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 7.4279,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4745,
+    "compound_index": 4781,
+    "compound_id": "PFAS_04781",
+    "cas": "No CAS number",
+    "smiles": "CC(CNCCC[N+](C)(C)CC(O)=O)C(=O)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 6.7588,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4746,
+    "compound_index": 4782,
+    "compound_id": "PFAS_04782",
+    "cas": "No CAS number",
+    "smiles": "CC(CNCCC[N+](C)(C)CC(O)=O)C(=O)CSCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 6.0897,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4764,
+    "compound_index": 4800,
+    "compound_id": "PFAS_04800",
+    "cas": "No CAS number",
+    "smiles": "CC(CCC(O)=O)(SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 18.5535,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4765,
+    "compound_index": 4801,
+    "compound_id": "PFAS_04801",
+    "cas": "No CAS number",
+    "smiles": "CC(CCC(O)=O)(SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 19.8917,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4766,
+    "compound_index": 4802,
+    "compound_id": "PFAS_04802",
+    "cas": "No CAS number",
+    "smiles": "CC(CCC(O)=O)(SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)SCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 21.2299,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4955,
+    "compound_index": 4991,
+    "compound_id": "PFAS_04991",
+    "cas": "No CAS number",
+    "smiles": "OCCOCCOCCOCCOCCOCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 9.7271,
+    "missing_descriptors": 1875
+  },
+  {
+    "excel_row": 4956,
+    "compound_index": 4992,
+    "compound_id": "PFAS_04992",
+    "cas": "No CAS number",
+    "smiles": "OCCOCCOCCOCCOCCOCCOCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F",
+    "value_mean": 9.4527,
+    "missing_descriptors": 1875
+  }
+]

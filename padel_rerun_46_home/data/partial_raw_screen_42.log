@@ -1,0 +1,86 @@
+[2026-08-07 09:21:13] Loaded 46 compounds for raw PaDEL screening
+[2026-08-07 09:21:13] 1/46 PFAS_00358: raw PaDEL; rdkit_valid=True atoms=95
+[2026-08-07 09:22:00] 1/46 PFAS_00358: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:22:00] 2/46 PFAS_00360: raw PaDEL; rdkit_valid=True atoms=83
+[2026-08-07 09:22:47] 2/46 PFAS_00360: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:22:47] 3/46 PFAS_00547: raw PaDEL; rdkit_valid=True atoms=42
+[2026-08-07 09:23:36] 3/46 PFAS_00547: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:23:36] 4/46 PFAS_00551: raw PaDEL; rdkit_valid=True atoms=46
+[2026-08-07 09:24:23] 4/46 PFAS_00551: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:24:24] 5/46 PFAS_00565: raw PaDEL; rdkit_valid=True atoms=50
+[2026-08-07 09:25:11] 5/46 PFAS_00565: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:25:12] 6/46 PFAS_00679: raw PaDEL; rdkit_valid=True atoms=79
+[2026-08-07 09:26:04] 6/46 PFAS_00679: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:26:04] 7/46 PFAS_00744: raw PaDEL; rdkit_valid=True atoms=104
+[2026-08-07 09:26:55] 7/46 PFAS_00744: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:26:55] 8/46 PFAS_00745: raw PaDEL; rdkit_valid=True atoms=95
+[2026-08-07 09:27:43] 8/46 PFAS_00745: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:27:43] 9/46 PFAS_01419: raw PaDEL; rdkit_valid=True atoms=79
+[2026-08-07 09:28:33] 9/46 PFAS_01419: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:28:33] 10/46 PFAS_01420: raw PaDEL; rdkit_valid=True atoms=59
+[2026-08-07 09:29:23] 10/46 PFAS_01420: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:29:23] 11/46 PFAS_01546: raw PaDEL; rdkit_valid=True atoms=140
+[2026-08-07 09:30:14] 11/46 PFAS_01546: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:30:14] 12/46 PFAS_01555: raw PaDEL; rdkit_valid=True atoms=84
+[2026-08-07 09:31:04] 12/46 PFAS_01555: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:31:04] 13/46 PFAS_01561: raw PaDEL; rdkit_valid=True atoms=84
+[2026-08-07 09:31:54] 13/46 PFAS_01561: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:31:55] 14/46 PFAS_01562: raw PaDEL; rdkit_valid=True atoms=86
+[2026-08-07 09:32:45] 14/46 PFAS_01562: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:32:45] 15/46 PFAS_01563: raw PaDEL; rdkit_valid=True atoms=94
+[2026-08-07 09:33:36] 15/46 PFAS_01563: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:33:37] 16/46 PFAS_01564: raw PaDEL; rdkit_valid=True atoms=96
+[2026-08-07 09:34:30] 16/46 PFAS_01564: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:34:30] 17/46 PFAS_01590: raw PaDEL; rdkit_valid=True atoms=72
+[2026-08-07 09:35:22] 17/46 PFAS_01590: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:35:22] 18/46 PFAS_01591: raw PaDEL; rdkit_valid=True atoms=74
+[2026-08-07 09:36:13] 18/46 PFAS_01591: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:36:14] 19/46 PFAS_01597: raw PaDEL; rdkit_valid=True atoms=104
+[2026-08-07 09:37:05] 19/46 PFAS_01597: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:37:05] 20/46 PFAS_01634: raw PaDEL; rdkit_valid=True atoms=68
+[2026-08-07 09:37:57] 20/46 PFAS_01634: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:37:58] 21/46 PFAS_01646: raw PaDEL; rdkit_valid=True atoms=100
+[2026-08-07 09:38:50] 21/46 PFAS_01646: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:38:51] 22/46 PFAS_01647: raw PaDEL; rdkit_valid=True atoms=100
+[2026-08-07 09:39:45] 22/46 PFAS_01647: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:39:46] 23/46 PFAS_01648: raw PaDEL; rdkit_valid=True atoms=73
+[2026-08-07 09:40:44] 23/46 PFAS_01648: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:40:45] 24/46 PFAS_01649: raw PaDEL; rdkit_valid=True atoms=46
+[2026-08-07 09:41:37] 24/46 PFAS_01649: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:41:37] 25/46 PFAS_01715: raw PaDEL; rdkit_valid=True atoms=150
+[2026-08-07 09:42:33] 25/46 PFAS_01715: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:42:34] 26/46 PFAS_01735: raw PaDEL; rdkit_valid=True atoms=76
+[2026-08-07 09:43:26] 26/46 PFAS_01735: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:43:26] 27/46 PFAS_01771: raw PaDEL; rdkit_valid=True atoms=82
+[2026-08-07 09:44:22] 27/46 PFAS_01771: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:44:23] 28/46 PFAS_01772: raw PaDEL; rdkit_valid=True atoms=61
+[2026-08-07 09:45:22] 28/46 PFAS_01772: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:45:23] 29/46 PFAS_02144: raw PaDEL; rdkit_valid=True atoms=79
+[2026-08-07 09:46:19] 29/46 PFAS_02144: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:46:19] 30/46 PFAS_02368: raw PaDEL; rdkit_valid=True atoms=90
+[2026-08-07 09:47:13] 30/46 PFAS_02368: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:47:13] 31/46 PFAS_02378: raw PaDEL; rdkit_valid=True atoms=118
+[2026-08-07 09:48:06] 31/46 PFAS_02378: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:48:06] 32/46 PFAS_02446: raw PaDEL; rdkit_valid=True atoms=47
+[2026-08-07 09:49:05] 32/46 PFAS_02446: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:49:06] 33/46 PFAS_03313: raw PaDEL; rdkit_valid=True atoms=61
+[2026-08-07 09:50:04] 33/46 PFAS_03313: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:50:05] 34/46 PFAS_03813: raw PaDEL; rdkit_valid=True atoms=44
+[2026-08-07 09:51:04] 34/46 PFAS_03813: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:51:05] 35/46 PFAS_04228: raw PaDEL; rdkit_valid=True atoms=102
+[2026-08-07 09:52:10] 35/46 PFAS_04228: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:52:10] 36/46 PFAS_04359: raw PaDEL; rdkit_valid=True atoms=47
+[2026-08-07 09:53:11] 36/46 PFAS_04359: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:53:12] 37/46 PFAS_04586: raw PaDEL; rdkit_valid=True atoms=44
+[2026-08-07 09:54:14] 37/46 PFAS_04586: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:54:15] 38/46 PFAS_04779: raw PaDEL; rdkit_valid=True atoms=75
+[2026-08-07 09:55:10] 38/46 PFAS_04779: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:55:11] 39/46 PFAS_04780: raw PaDEL; rdkit_valid=True atoms=72
+[2026-08-07 09:56:04] 39/46 PFAS_04780: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:56:04] 40/46 PFAS_04781: raw PaDEL; rdkit_valid=True atoms=69
+[2026-08-07 09:56:56] 40/46 PFAS_04781: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:56:57] 41/46 PFAS_04782: raw PaDEL; rdkit_valid=True atoms=66
+[2026-08-07 09:57:47] 41/46 PFAS_04782: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:57:48] 42/46 PFAS_04800: raw PaDEL; rdkit_valid=True atoms=75
+[2026-08-07 09:58:42] 42/46 PFAS_04800: class=raw_padel_timeout nonmissing=0
+[2026-08-07 09:58:42] 43/46 PFAS_04801: raw PaDEL; rdkit_valid=True atoms=81
