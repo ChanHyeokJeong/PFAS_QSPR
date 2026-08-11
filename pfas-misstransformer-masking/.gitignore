@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw or generated large data files. Keep these outside normal Git history.
+*.xlsx
+*.xls
+*.npz
+*.zip
+data/raw/
+
+# Generated benchmark output folders.
+masking_benchmark_*/
+impute_progress/
+
+# Local environment files.
+.venv/
+venv/
+env/
+.env
+
